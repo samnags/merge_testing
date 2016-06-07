@@ -1,3 +1,3 @@
-def this_is_my_method
-  puts "my name is #{name}"
+def this_is_my_method(name)
+  puts name
 end
