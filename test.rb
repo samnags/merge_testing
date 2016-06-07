@@ -1,3 +1,3 @@
-def this_is_my_first_method(name)
+def this_is_my_method(name)
   puts name
 end
