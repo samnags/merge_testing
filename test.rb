@@ -1,3 +1,3 @@
 def this_is_my_method
-  puts "my name is #{name}"
+  puts "this is the third branch"
 end
